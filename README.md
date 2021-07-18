@@ -1,2 +1,2 @@
 # roadshow
-App onde apresenta eventos e usuário realiza o inscrição do mesmo.
+App onde apresenta eventos e usuário realiza a inscrição do mesmo.
